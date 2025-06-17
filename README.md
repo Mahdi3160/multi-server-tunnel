@@ -12,4 +12,4 @@
 ## نصب
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/username/private-tunnel/main/install.sh | bash
+bash curl -sSL https://raw.githubusercontent.com/username/private-tunnel/main/install.sh
